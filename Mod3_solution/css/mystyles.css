@@ -1,0 +1,26 @@
+nav.navbar{
+	background-color: 2BFF55 !important;
+	color:black;
+	padding-left: 30px;
+}
+ a.head,a.head:hover{
+ 	font-family: "Permanent Marker", sans-seriff;
+	font-size: 40px;
+
+ }
+ section{
+ 	display:flex;
+ 	align-items: center;
+ 	justify-content: center;
+ 	flex-direction: column;
+ 	background-color: #82E0AA;
+ 	margin: 15px;
+ 	 }
+h2.menu{
+	font-family: times Roman, sans-seriff;
+	text-transform: bold;
+	text-align: center;
+}
+h1.head-section{
+	font-size: 2em;
+}
